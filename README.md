@@ -11,6 +11,24 @@ An advanced Retrieval-Augmented Generation (RAG) solution designed to tackle com
 
 ![Demo](graphs/demo.gif)
 
+<div align="center">
+
+# 📖 [RAG Made Simple: the book that extends this repo](https://diamant-ai.com/rag-made-simple?code=RAGKING)
+
+<a href="https://diamant-ai.com/rag-made-simple?code=RAGKING"><img src="https://raw.githubusercontent.com/NirDiamant/agents-towards-production/main/images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="500"></a>
+
+The full reference: a 400-page visual guide that goes deeper than any notebook can. The **intuition** behind every technique, **side-by-side comparisons** of when each one wins (and when it quietly fails), and **diagrams** that make the tricky parts finally click.
+
+**1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars**
+
+📖 **PDF + EPUB · GitHub community price: 33% off with code RAGKING**
+
+### 👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
+
+</div>
+
+---
+
 🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
 
 📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to complement this advanced agent implementation with many other RAG techniques.
